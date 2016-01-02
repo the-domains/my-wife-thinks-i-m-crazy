@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Or how i became bat-shit crazy to my wife...
-datePublished: '2016-01-02T22:14:18.146Z'
-dateModified: '2016-01-02T22:11:22.861Z'
+datePublished: '2016-01-02T22:14:32.486Z'
+dateModified: '2016-01-02T22:14:23.002Z'
 title: Blame it on SV Delos
 author: []
 sourcePath: _posts/2016-01-02-blame-it-on-sv-delos.md
