@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Or how i became bat-shit crazy to my wife...
-datePublished: '2016-01-02T22:14:32.486Z'
-dateModified: '2016-01-02T22:14:23.002Z'
+datePublished: '2016-01-11T18:48:34.470Z'
+dateModified: '2016-01-11T18:48:20.358Z'
 title: Blame it on SV Delos
 author: []
 sourcePath: _posts/2016-01-02-blame-it-on-sv-delos.md
@@ -22,8 +22,7 @@ url: blame-it-on-sv-delos/index.html
 _type: Article
 
 ---
-SV Delos is to blame...  And my brother, who first showed me the SV Delos youtube channel.  He was intrigued by their story, and About 2 months ago he made me watch one of their episodes.  I think it was this one: https://www.youtube.com/watch?v=Z-896fMbjqQ
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4eb6f8c-5348-4555-8e4d-d484b61eacfc.png)
+SV Delos is to blame...  And my brother, who first showed me the SV Delos youtube channel.  He was intrigued by their story, and About 2 months ago he made me watch one of their episodes.  I think it was this one: ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4eb6f8c-5348-4555-8e4d-d484b61eacfc.png)
 
 Within days I watched every single episode of theirs.  It had changed me.  It took me a week or so to slowly work the word "sailing" into a conversation with my wife.  I'm not one to tempt fate, and I'm a bit superstitious, so it's not like me to make statements like I'm about to.
 
